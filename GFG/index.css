@@ -1,0 +1,24 @@
+body {
+    background-color: lightgrey;
+}
+
+h2 {
+    color: blue;
+    margin-left: 20px;
+    text-align: center;
+}
+.box1 {
+    width: 300px;
+    height: 300px;
+    border-style: dotted;
+    background-color: aqua;
+    border-color: pink;
+}
+
+.box2 {
+    width: 300px;
+    height: 300px;
+    border-style: dotted;
+    background-color: yellow;
+    border-color: pink;
+}
